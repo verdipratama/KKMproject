@@ -1,6 +1,14 @@
 /*============================================================================================*/
 /* Your custom styles below */
 /*============================================================================================*/
+.navbar-brand {
+    letter-spacing: 1px;
+    color: white !important;
+    margin-left: 15px;
+    font-family: Poppins, Helvetica, sans-serif;
+    font-weight: 500
+}
+
 #indexPopup {
     position: fixed;
     background: rgba(0, 0, 0, 0.85);
