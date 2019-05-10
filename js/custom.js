@@ -6,7 +6,3 @@ function popupHide(){
 $('#indexPopupClose').on('click', function(){
     popupHide();
 });
-
-$('#indexPopup').on('click', function(){
-    // popupHide();
-});
